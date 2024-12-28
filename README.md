@@ -2,18 +2,12 @@
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
-</p>
-<p align="center">
-  <a href="http://maichedaimat.id.vn/wp-content/uploads/2024/06/logo.png" title="Frenzy" style="border: none;">
-    <img src="http://maichedaimat.id.vn/wp-content/uploads/2024/06/logo.png" alt="Logo Frenzy" width="70" height="70">
-  </a>
-</p>
+
 
 <h1 align="center"><b>Frenzy</b></h1>
 
  ## THÀNH VIÊN NHÓM
 | STT | MSSV     | Họ và Tên             | GitHub                                   | Email                  |
-| :-- | :------- | :-------------------- | :--------------------------------------- | :--------------------- |
 | 1   | 22520888 | Trần Gia Minh         | https://github.com/gm_ecommerce          | 22520888@gm.uit.edu.vn |
 | 2   | 22520497 | Đàm Quốc Hưng         | https://github.com/HungDam00             | 22520497@gm.uit.edu.vn |
 | 3   | 22520373 | Nguyễn Trần Mỹ Hà     | https://github.com/myhant                | 22520373@gm.uit.edu.vn |
