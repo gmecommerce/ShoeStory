@@ -4,7 +4,7 @@
   </a>
 
 
-<h1 align="center"><b>Frenzy</b></h1>
+<h1 align="center"><b>ShoeStory</b></h1>
 
  ## THÀNH VIÊN NHÓM
 | STT | MSSV     | Họ và Tên             | GitHub                                   | Email                  |
