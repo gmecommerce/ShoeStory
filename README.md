@@ -8,6 +8,7 @@
 
  ## THÀNH VIÊN NHÓM
 | STT | MSSV     | Họ và Tên             | GitHub                                   | Email                  |
+| :-- | :------- | :-------------------- | :--------------------------------------- | :--------------------- |
 | 1   | 22520888 | Trần Gia Minh         | https://github.com/gm_ecommerce          | 22520888@gm.uit.edu.vn |
 | 2   | 22520497 | Đàm Quốc Hưng         | https://github.com/HungDam00             | 22520497@gm.uit.edu.vn |
 | 3   | 22520373 | Nguyễn Trần Mỹ Hà     | https://github.com/myhant                | 22520373@gm.uit.edu.vn |
