@@ -41,7 +41,7 @@
 
 ## Cài đặt phần Frontend
 
-**Bước 3:** Clone Project thông qua [link Github](https://github.com/iTeddy1/Frenzy-real).
+**Bước 3:** Clone Project thông qua Github.
 
 **Bước 4:** Sau khi clone hoặc giải nén, mở project bằng Visual Code Studio, mở terminal và chạy các lệnh sau: `php artisan serve` >> Vào đường dẫn http://localhost:8000/ để đi đến trang web.
 
